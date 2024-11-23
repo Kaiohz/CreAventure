@@ -36,35 +36,27 @@ async def main(message: cl.Message):
 
 
 @cl.on_audio_end
-async def on_audio_end(chunk: cl.AudioChunk):
-    if chunk.isStart:
-        buffer = BytesIO()
-        # This is required for whisper to recognize the file type
-        buffer.name = f"input_audio.{chunk.mimeType.split('/')[1]}"
-        # Initialize the session for a new audio stream
-        cl.user_session.set("audio_buffer", buffer)
-        cl.user_session.set("audio_mime_type", chunk.mimeType)
-
+async def on_audio_end(audioFil):
+    if audioFil :
     # Write the chunks to a buffer and transcribe the whole audio at the end
-    cl.user_session.get("audio_buffer").write(chunk.data)
-    with wave.open("fichier_vide.wav", "wb") as wf:
-        wf.setnchannels(1)        # Mono (1 canal)
-        wf.setsampwidth(2)        # Taille des échantillons : 2 octets (16 bits)
-        wf.setframerate(16000)    # Fréquence d'échantillonnage : 16 kHz
-        wf.writeframes(chunk.data)
-    
-    message =  rv.interPreteur("fichier_vide.wav")
-    print(f"contenu : {message}")
-    
-    messages = [{"role": "system", "content": message}]
-    messages.extend(cl.chat_context.to_openai())
-    
-    # Call LLM with the full conversation history
-    response = await llm.agenerate([messages])
-    
-    # Send the LLM's response
-    await cl.Message(
-        content=response.generations[0][0].text,
-    ).send()
+        if audioFil.endswith(".wav") :
+            message =  rv.interPreteur(audioFil)
+        else : 
+            with wave.open("fichier_vide.wav", "wb") as wf:
+                wf.setnchannels(1)        # Mono (1 canal)
+                wf.setsampwidth(2)        # Taille des échantillons : 2 octets (16 bits)
+                wf.setframerate(16000)    # Fréquence d'échantillonnage : 16 kHz
+                wf.writeframes(audioFil)
+            message = rv.interPreteur("fichier_vide.wav")
+        messages = [{"role": "system", "content": system_prompt}, {"role": "user", "content": message}]
+        messages.extend(cl.chat_context.to_openai())
+
+        # Call LLM with the full conversation history
+        response = await llm.agenerate([messages])
+
+        # Send the LLM's response
+        await cl.Message(
+            content=response.generations[0][0].text,
+        ).send()
     
     
