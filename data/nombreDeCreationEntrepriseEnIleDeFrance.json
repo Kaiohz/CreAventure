@@ -1,0 +1,140 @@
+{
+    "année": 2024,
+    "région": "Île-de-France",
+    "création_entreprises_par_secteur": [
+      {
+        "secteur": "Industrie",
+        "nombre_de_creations": 1765,
+        "part_micro_entrepreneurs": 52.2,
+        "évolution_septembre_2022_2024": -22.5,
+        "évolution_janvier_septembre_2022_2024": 10.1
+      },
+      {
+        "secteur": "Construction",
+        "nombre_de_creations": 5485,
+        "part_micro_entrepreneurs": 57.8,
+        "évolution_septembre_2022_2024": -16.1,
+        "évolution_janvier_septembre_2022_2024": 21.0
+      },
+      {
+        "secteur": "Commerce de type commerce",
+        "nombre_de_creations": 1217,
+        "part_micro_entrepreneurs": 49.7,
+        "évolution_septembre_2022_2024": -25.1,
+        "évolution_janvier_septembre_2022_2024": 6.3
+      },
+      {
+        "secteur": "Commerce de détail",
+        "nombre_de_creations": 4943,
+        "part_micro_entrepreneurs": 63.1,
+        "évolution_septembre_2022_2024": -9.1,
+        "évolution_janvier_septembre_2022_2024": 19.8
+      },
+      {
+        "secteur": "Commerce de gros",
+        "nombre_de_creations": 4183,
+        "part_micro_entrepreneurs": 38.5,
+        "évolution_septembre_2022_2024": -47.7,
+        "évolution_janvier_septembre_2022_2024": -21.6
+      },
+      {
+        "secteur": "Commerce et réparation automobiles",
+        "nombre_de_creations": 5949,
+        "part_micro_entrepreneurs": 59.2,
+        "évolution_septembre_2022_2024": 22.9,
+        "évolution_janvier_septembre_2022_2024": 48.7
+      },
+      {
+        "secteur": "Hébergement",
+        "nombre_de_creations": 8243,
+        "part_micro_entrepreneurs": 53.9,
+        "évolution_septembre_2022_2024": 10.8,
+        "évolution_janvier_septembre_2022_2024": 97.9
+      },
+      {
+        "secteur": "Restauration",
+        "nombre_de_creations": 6164,
+        "part_micro_entrepreneurs": 48.9,
+        "évolution_septembre_2022_2024": 4.1,
+        "évolution_janvier_septembre_2022_2024": 36.6
+      },
+      {
+        "secteur": "Transports et entreposage",
+        "nombre_de_creations": 3728,
+        "part_micro_entrepreneurs": 86.3,
+        "évolution_septembre_2022_2024": 36.6,
+        "évolution_janvier_septembre_2022_2024": 39.8
+      },
+      {
+        "secteur": "Activités scientifiques et techniques",
+        "nombre_de_creations": 4368,
+        "part_micro_entrepreneurs": 65.8,
+        "évolution_septembre_2022_2024": -31.8,
+        "évolution_janvier_septembre_2022_2024": -14.6
+      },
+      {
+        "secteur": "Activités de soutien aux entreprises",
+        "nombre_de_creations": 2175,
+        "part_micro_entrepreneurs": 74.7,
+        "évolution_septembre_2022_2024": 21.7,
+        "évolution_janvier_septembre_2022_2024": 63.7
+      },
+      {
+        "secteur": "Information et communication",
+        "nombre_de_creations": 2035,
+        "part_micro_entrepreneurs": 66.2,
+        "évolution_septembre_2022_2024": -12.5,
+        "évolution_janvier_septembre_2022_2024": 28.5
+      },
+      {
+        "secteur": "Enseignement",
+        "nombre_de_creations": 1970,
+        "part_micro_entrepreneurs": 89.2,
+        "évolution_septembre_2022_2024": -10.0,
+        "évolution_janvier_septembre_2022_2024": -2.8
+      },
+      {
+        "secteur": "Santé humaine et action sociale",
+        "nombre_de_creations": 8016,
+        "part_micro_entrepreneurs": 85.7,
+        "évolution_septembre_2022_2024": -19.1,
+        "évolution_janvier_septembre_2022_2024": 16.3
+      },
+      {
+        "secteur": "Activités financières et d’assurance",
+        "nombre_de_creations": 1075,
+        "part_micro_entrepreneurs": 48.7,
+        "évolution_septembre_2022_2024": -3.2,
+        "évolution_janvier_septembre_2022_2024": -11.2
+      },
+      {
+        "secteur": "Activités des sociétés holding",
+        "nombre_de_creations": 1070,
+        "part_micro_entrepreneurs": 70.0,
+        "évolution_septembre_2022_2024": -43.7,
+        "évolution_janvier_septembre_2022_2024": -32.6
+      },
+      {
+        "secteur": "Services en direction des personnes",
+        "nombre_de_creations": 24015,
+        "part_micro_entrepreneurs": 67.7,
+        "évolution_septembre_2022_2024": -9.9,
+        "évolution_janvier_septembre_2022_2024": 11.0
+      },
+      {
+        "secteur": "Immobilier",
+        "nombre_de_creations": 6732,
+        "part_micro_entrepreneurs": 74.8,
+        "évolution_septembre_2022_2024": -23.8,
+        "évolution_janvier_septembre_2022_2024": -16.4
+      },
+      {
+        "secteur": "Arts, spectacles et activités récréatives",
+        "nombre_de_creations": 5674,
+        "part_micro_entrepreneurs": 44.8,
+        "évolution_septembre_2022_2024": -8.7,
+        "évolution_janvier_septembre_2022_2024": 8.5
+      }
+    ]
+  }
+  

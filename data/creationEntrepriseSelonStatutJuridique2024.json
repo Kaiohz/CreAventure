@@ -1,0 +1,68 @@
+{
+    "année": 2024,
+    "création_entreprises_par_nature_juridique": [
+      {
+        "nature_juridique": "Entreprises individuelles",
+        "nombre_de_creations": 68213,
+        "part_dans_le_total": 78.5,
+        "évolution_septembre_2022_2024": -6.9,
+        "évolution_janvier_septembre_2022_2024": 8.9
+      },
+      {
+        "nature_juridique": "Micro-entrepreneurs",
+        "nombre_de_creations": 59929,
+        "part_dans_le_total": 69.0,
+        "évolution_septembre_2022_2024": -4.0,
+        "évolution_janvier_septembre_2022_2024": 12.1
+      },
+      {
+        "nature_juridique": "Entreprises individuelles classiques",
+        "nombre_de_creations": 8284,
+        "part_dans_le_total": 9.5,
+        "évolution_septembre_2022_2024": -23.8,
+        "évolution_janvier_septembre_2022_2024": -7.7
+      },
+      {
+        "nature_juridique": "Sociétés",
+        "nombre_de_creations": 18696,
+        "part_dans_le_total": 21.5,
+        "évolution_septembre_2022_2024": -16.3,
+        "évolution_janvier_septembre_2022_2024": 0.0
+      },
+      {
+        "nature_juridique": "SARL & EURL",
+        "nombre_de_creations": 4705,
+        "part_dans_le_total": 5.4,
+        "évolution_septembre_2022_2024": -21.3,
+        "évolution_janvier_septembre_2022_2024": -9.7
+      },
+      {
+        "nature_juridique": "SAS & SASU",
+        "nombre_de_creations": 12556,
+        "part_dans_le_total": 14.4,
+        "évolution_septembre_2022_2024": -13.4,
+        "évolution_janvier_septembre_2022_2024": 2.5
+      },
+      {
+        "nature_juridique": "SCI",
+        "nombre_de_creations": 630,
+        "part_dans_le_total": 0.7,
+        "évolution_septembre_2022_2024": 293.8,
+        "évolution_janvier_septembre_2022_2024": 296.2
+      },
+      {
+        "nature_juridique": "Autres",
+        "nombre_de_creations": 1372,
+        "part_dans_le_total": 1.6,
+        "évolution_septembre_2022_2024": -25.4,
+        "évolution_janvier_septembre_2022_2024": -23.0
+      },
+      {
+        "nature_juridique": "Total France entière",
+        "nombre_de_creations": 86909,
+        "part_dans_le_total": 100.0,
+        "évolution_septembre_2022_2024": -9.1,
+        "évolution_janvier_septembre_2022_2024": 5.7
+      }
+    ]
+  }  
