@@ -1,0 +1,480 @@
+{
+    "année": 2024,
+    "création_entreprises_par_secteur": [
+      {
+        "secteur": "Activités secondaires",
+        "nombre_de_creations": 10705,
+        "part_des_micro_entrepreneurs": 59.6,
+        "évolution_septembre_2022_2024": -19.6,
+        "évolution_janvier_septembre_2022_2024": 5.9
+      },
+      {
+        "secteur": "Industrie",
+        "nombre_de_creations": 4789,
+        "part_des_micro_entrepreneurs": 57.7,
+        "évolution_septembre_2022_2024": -6.4,
+        "évolution_janvier_septembre_2022_2024": 23.1
+      },
+      {
+        "secteur": "Construction",
+        "nombre_de_creations": 5916,
+        "part_des_micro_entrepreneurs": 61.2,
+        "évolution_septembre_2022_2024": -27.9,
+        "évolution_janvier_septembre_2022_2024": -4.0
+      },
+      {
+        "secteur": "Activités de type commerce",
+        "nombre_de_creations": 21743,
+        "part_des_micro_entrepreneurs": 67.0,
+        "évolution_septembre_2022_2024": -10.2,
+        "évolution_janvier_septembre_2022_2024": 7.4
+      },
+      {
+        "secteur": "Commerce de détail",
+        "nombre_de_creations": 7703,
+        "part_des_micro_entrepreneurs": 61.1,
+        "évolution_septembre_2022_2024": 0.3,
+        "évolution_janvier_septembre_2022_2024": 9.0
+      },
+      {
+        "secteur": "Commerce de gros",
+        "nombre_de_creations": 1460,
+        "part_des_micro_entrepreneurs": 50.3,
+        "évolution_septembre_2022_2024": -45.9,
+        "évolution_janvier_septembre_2022_2024": -28.2
+      },
+      {
+        "secteur": "Commerce de bouche",
+        "nombre_de_creations": 254,
+        "part_des_micro_entrepreneurs": 47.6,
+        "évolution_septembre_2022_2024": -6.6,
+        "évolution_janvier_septembre_2022_2024": 14.4
+      },
+      {
+        "secteur": "Commerce et réparation automobiles",
+        "nombre_de_creations": 2423,
+        "part_des_micro_entrepreneurs": 70.0,
+        "évolution_septembre_2022_2024": 22.1,
+        "évolution_janvier_septembre_2022_2024": 29.5
+      },
+      {
+        "secteur": "Hébergement",
+        "nombre_de_creations": 560,
+        "part_des_micro_entrepreneurs": 39.8,
+        "évolution_septembre_2022_2024": -0.5,
+        "évolution_janvier_septembre_2022_2024": 35.5
+      },
+      {
+        "secteur": "Restauration",
+        "nombre_de_creations": 2533,
+        "part_des_micro_entrepreneurs": 46.3,
+        "évolution_septembre_2022_2024": 5.9,
+        "évolution_janvier_septembre_2022_2024": 19.3
+      },
+      {
+        "secteur": "Services en direction des personnes",
+        "nombre_de_creations": 6810,
+        "part_des_micro_entrepreneurs": 86.7,
+        "évolution_septembre_2022_2024": -21.0,
+        "évolution_janvier_septembre_2022_2024": 5.5
+      },
+      {
+        "secteur": "Activités de type services",
+        "nombre_de_creations": 54461,
+        "part_des_micro_entrepreneurs": 71.6,
+        "évolution_septembre_2022_2024": -6.2,
+        "évolution_janvier_septembre_2022_2024": 5.0
+      },
+      {
+        "secteur": "Transports et entreposage",
+        "nombre_de_creations": 2750,
+        "part_des_micro_entrepreneurs": 49.6,
+        "évolution_septembre_2022_2024": -26.5,
+        "évolution_janvier_septembre_2022_2024": -17.2
+      },
+      {
+        "secteur": "Activités scientifiques et techniques",
+        "nombre_de_creations": 9543,
+        "part_des_micro_entrepreneurs": 89.6,
+        "évolution_septembre_2022_2024": 44.6,
+        "évolution_janvier_septembre_2022_2024": 26.5
+      },
+      {
+        "secteur": "Activités de soutien aux entreprises",
+        "nombre_de_creations": 11920,
+        "part_des_micro_entrepreneurs": 68.3,
+        "évolution_septembre_2022_2024": -27.7,
+        "évolution_janvier_septembre_2022_2024": -13.1
+      },
+      {
+        "secteur": "Information et communication",
+        "nombre_de_creations": 8601,
+        "part_des_micro_entrepreneurs": 80.2,
+        "évolution_septembre_2022_2024": 15.1,
+        "évolution_janvier_septembre_2022_2024": 38.5
+      },
+      {
+        "secteur": "Enseignement",
+        "nombre_de_creations": 5264,
+        "part_des_micro_entrepreneurs": 75.9,
+        "évolution_septembre_2022_2024": -5.6,
+        "évolution_janvier_septembre_2022_2024": 18.7
+      },
+      {
+        "secteur": "Arts, spectacles et activités récréatives",
+        "nombre_de_creations": 6225,
+        "part_des_micro_entrepreneurs": 90.3,
+        "évolution_septembre_2022_2024": -8.8,
+        "évolution_janvier_septembre_2022_2024": -1.3
+      },
+      {
+        "secteur": "Santé humaine et action sociale",
+        "nombre_de_creations": 3023,
+        "part_des_micro_entrepreneurs": 68.8,
+        "évolution_septembre_2022_2024": -17.0,
+        "évolution_janvier_septembre_2022_2024": 9.4
+      },
+      {
+        "secteur": "Activités financières et d’assurance",
+        "nombre_de_creations": 4767,
+        "part_des_micro_entrepreneurs": 41.6,
+        "évolution_septembre_2022_2024": -9.0,
+        "évolution_janvier_septembre_2022_2024": -6.9
+      },
+      {
+        "secteur": "Activités des sociétés holding",
+        "nombre_de_creations": 2368,
+        "part_des_micro_entrepreneurs": 15.1,
+        "évolution_septembre_2022_2024": -5.4,
+        "évolution_janvier_septembre_2022_2024": -1.1
+      },
+      {
+        "secteur": "Total France entière",
+        "nombre_de_creations": 86909,
+        "part_des_micro_entrepreneurs": 69.0,
+        "évolution_septembre_2022_2024": -9.1,
+        "évolution_janvier_septembre_2022_2024": 5.7
+      }
+    ],
+    "créations_entreprises": [
+        {
+          "statut_juridique": "Entreprises individuelles",
+          "nombre_de_creations": 778497,
+          "évolution_annuelle": 1.0,
+          "part_pourcent": 72.6,
+          "TCAM_2012_2021": 7.4,
+          "contribution_point_pourcent": 0.7
+        },
+        {
+          "statut_juridique": "Micro-entrepreneurs",
+          "nombre_de_creations": 656425,
+          "évolution_annuelle": 2.8,
+          "part_pourcent": 61.2,
+          "TCAM_2012_2021": 8.6,
+          "contribution_point_pourcent": 3.0
+        },
+        {
+          "statut_juridique": "Entreprises individuelles classiques",
+          "nombre_de_creations": 122072,
+          "évolution_annuelle": -7.4,
+          "part_pourcent": 11.4,
+          "TCAM_2012_2021": -0.9,
+          "contribution_point_pourcent": 1.3
+        },
+        {
+          "statut_juridique": "Sociétés",
+          "nombre_de_creations": 293384,
+          "évolution_annuelle": 4.8,
+          "part_pourcent": 27.4,
+          "TCAM_2012_2021": 6.2,
+          "contribution_point_pourcent": 1.7
+        },
+        {
+          "statut_juridique": "SARL & EURL",
+          "nombre_de_creations": 77273,
+          "évolution_annuelle": 3.9,
+          "part_pourcent": 7.2,
+          "TCAM_2012_2021": 21.5,
+          "contribution_point_pourcent": 0.3
+        },
+        {
+          "statut_juridique": "SAS & SASU",
+          "nombre_de_creations": 188058,
+          "évolution_annuelle": 4.5,
+          "part_pourcent": 17.5,
+          "TCAM_2012_2021": 7.2,
+          "contribution_point_pourcent": 0.8
+        },
+        {
+          "statut_juridique": "SCI",
+          "nombre_de_creations": 246,
+          "évolution_annuelle": -25.5,
+          "part_pourcent": 0.0,
+          "TCAM_2012_2021": -9.9,
+          "contribution_point_pourcent": 2.0
+        },
+        {
+          "statut_juridique": "Autres",
+          "nombre_de_creations": 27807,
+          "évolution_annuelle": 10.3,
+          "part_pourcent": 2.6,
+          "TCAM_2012_2021": 7.2,
+          "contribution_point_pourcent": 7.1
+        }
+      ],
+
+    "création_entreprises_par_région": [
+        {
+          "région": "Île-de-France",
+          "nombre_de_creations": 291484,
+          "part_micro_entrepreneurs": 59.4,
+          "évolution_annuelle": 3.5,
+          "TCAM_2012_2021": 8.7,
+          "taux_de_renouvellement": 197239,
+          "création_par_10_000_habitants": 239
+        },
+        {
+          "région": "Centre-Val de Loire",
+          "nombre_de_creations": 30055,
+          "part_micro_entrepreneurs": 61.9,
+          "évolution_annuelle": 0.9,
+          "TCAM_2012_2021": 6.6,
+          "taux_de_renouvellement": 189117,
+          "création_par_10_000_habitants": 117
+        },
+        {
+          "région": "Bourgogne-Franche-Comté",
+          "nombre_de_creations": 31166,
+          "part_micro_entrepreneurs": 62.0,
+          "évolution_annuelle": -1.0,
+          "TCAM_2012_2021": 6.1,
+          "taux_de_renouvellement": 170111,
+          "création_par_10_000_habitants": 111
+        },
+        {
+          "région": "Normandie",
+          "nombre_de_creations": 35885,
+          "part_micro_entrepreneurs": 60.7,
+          "évolution_annuelle": -1.8,
+          "TCAM_2012_2021": 6.9,
+          "taux_de_renouvellement": 173108,
+          "création_par_10_000_habitants": 108
+        },
+        {
+          "région": "Hauts-de-France",
+          "nombre_de_creations": 66425,
+          "part_micro_entrepreneurs": 63.5,
+          "évolution_annuelle": -1.4,
+          "TCAM_2012_2021": 7.2,
+          "taux_de_renouvellement": 193111,
+          "création_par_10_000_habitants": 111
+        },
+        {
+          "région": "Grand Est",
+          "nombre_de_creations": 64183,
+          "part_micro_entrepreneurs": 61.9,
+          "évolution_annuelle": -0.9,
+          "TCAM_2012_2021": 6.6,
+          "taux_de_renouvellement": 177116,
+          "création_par_10_000_habitants": 116
+        },
+        {
+          "région": "Pays de la Loire",
+          "nombre_de_creations": 47179,
+          "part_micro_entrepreneurs": 60.1,
+          "évolution_annuelle": 1.8,
+          "TCAM_2012_2021": 7.4,
+          "taux_de_renouvellement": 184125,
+          "création_par_10_000_habitants": 125
+        },
+        {
+          "région": "Bretagne",
+          "nombre_de_creations": 39463,
+          "part_micro_entrepreneurs": 56.3,
+          "évolution_annuelle": 3.3,
+          "TCAM_2012_2021": 6.7,
+          "taux_de_renouvellement": 175118,
+          "création_par_10_000_habitants": 118
+        },
+        {
+          "région": "Nouvelle-Aquitaine",
+          "nombre_de_creations": 89662,
+          "part_micro_entrepreneurs": 64.0,
+          "évolution_annuelle": 0.7,
+          "TCAM_2012_2021": 6.9,
+          "taux_de_renouvellement": 180150,
+          "création_par_10_000_habitants": 150
+        },
+        {
+          "région": "Occitanie",
+          "nombre_de_creations": 97485,
+          "part_micro_entrepreneurs": 63.4,
+          "évolution_annuelle": -0.2,
+          "TCAM_2012_2021": 6.0,
+          "taux_de_renouvellement": 180166,
+          "création_par_10_000_habitants": 166
+        },
+        {
+          "région": "Auvergne-Rhône-Alpes",
+          "nombre_de_creations": 127117,
+          "part_micro_entrepreneurs": 62.2,
+          "évolution_annuelle": 2.4,
+          "TCAM_2012_2021": 7.0,
+          "taux_de_renouvellement": 182159,
+          "création_par_10_000_habitants": 159
+        },
+        {
+          "région": "Provence-Alpes-Côte d’Azur",
+          "nombre_de_creations": 111321,
+          "part_micro_entrepreneurs": 66.3,
+          "évolution_annuelle": 4.2,
+          "TCAM_2012_2021": 6.2,
+          "taux_de_renouvellement": 182220,
+          "création_par_10_000_habitants": 220
+        },
+        {
+          "région": "Corse",
+          "nombre_de_creations": 6160,
+          "part_micro_entrepreneurs": 59.7,
+          "évolution_annuelle": 6.0,
+          "TCAM_2012_2021": 4.2,
+          "taux_de_renouvellement": 1382,
+          "création_par_10_000_habitants": 182
+        },
+        {
+          "région": "France métropolitaine hors Île-de-France",
+          "nombre_de_creations": 746101,
+          "part_micro_entrepreneurs": 62.7,
+          "évolution_annuelle": 1.1,
+          "TCAM_2012_2021": 6.6,
+          "taux_de_renouvellement": 181142,
+          "création_par_10_000_habitants": 142
+        },
+        {
+          "région": "France d'outre-mer",
+          "nombre_de_creations": 34296,
+          "part_micro_entrepreneurs": 44.7,
+          "évolution_annuelle": 10.9,
+          "TCAM_2012_2021": 4.8,
+          "taux_de_renouvellement": 173159,
+          "création_par_10_000_habitants": 159
+        },
+        {
+          "région": "Guadeloupe",
+          "nombre_de_creations": 7885,
+          "part_micro_entrepreneurs": 49.5,
+          "évolution_annuelle": 16.8,
+          "TCAM_2012_2021": 3.4,
+          "taux_de_renouvellement": 139203,
+          "création_par_10_000_habitants": 203
+        },
+        {
+          "région": "Martinique",
+          "nombre_de_creations": 9423,
+          "part_micro_entrepreneurs": 27.0,
+          "évolution_annuelle": 17.4,
+          "TCAM_2012_2021": 5.6,
+          "taux_de_renouvellement": 122256,
+          "création_par_10_000_habitants": 256
+        },
+        {
+          "région": "Guyane",
+          "nombre_de_creations": 3092,
+          "part_micro_entrepreneurs": 50.2,
+          "évolution_annuelle": 4.7,
+          "TCAM_2012_2021": 3.0,
+          "taux_de_renouvellement": 112112,
+          "création_par_10_000_habitants": 112
+        },
+        {
+          "région": "La Réunion",
+          "nombre_de_creations": 12124,
+          "part_micro_entrepreneurs": 55.6,
+          "évolution_annuelle": 6.4,
+          "TCAM_2012_2021": 5.2,
+          "taux_de_renouvellement": 181142,
+          "création_par_10_000_habitants": 142
+        },
+        {
+          "région": "Mayotte",
+          "nombre_de_creations": 1772,
+          "part_micro_entrepreneurs": 33.1,
+          "évolution_annuelle": -1.7,
+          "TCAM_2012_2021": 8.1,
+          "taux_de_renouvellement": 14266,
+          "création_par_10_000_habitants": 66
+        }
+      ],
+      "création_entreprises_par_implantation": [
+        {
+          "implantation": "Rurale éloignée très peu dense",
+          "nombre_de_creations": 1425,
+          "part_dans_le_total": 1.6,
+          "évolution_septembre_2022_2024": -10.5,
+          "évolution_janvier_septembre_2022_2024": 5.6
+        },
+        {
+          "implantation": "Rurale éloignée peu dense",
+          "nombre_de_creations": 3557,
+          "part_dans_le_total": 4.1,
+          "évolution_septembre_2022_2024": -6.3,
+          "évolution_janvier_septembre_2022_2024": 6.7
+        },
+        {
+          "implantation": "Rurale périphérique très peu dense",
+          "nombre_de_creations": 773,
+          "part_dans_le_total": 0.9,
+          "évolution_septembre_2022_2024": -13.0,
+          "évolution_janvier_septembre_2022_2024": 5.2
+        },
+        {
+          "implantation": "Rurale périphérique peu dense",
+          "nombre_de_creations": 7271,
+          "part_dans_le_total": 8.4,
+          "évolution_septembre_2022_2024": -10.6,
+          "évolution_janvier_septembre_2022_2024": 4.8
+        },
+        {
+          "implantation": "Bourg",
+          "nombre_de_creations": 2642,
+          "part_dans_le_total": 3.0,
+          "évolution_septembre_2022_2024": -9.8,
+          "évolution_janvier_septembre_2022_2024": 4.7
+        },
+        {
+          "implantation": "Petite ville",
+          "nombre_de_creations": 2131,
+          "part_dans_le_total": 2.5,
+          "évolution_septembre_2022_2024": -7.3,
+          "évolution_janvier_septembre_2022_2024": 4.1
+        },
+        {
+          "implantation": "Urbaine périphérique peu dense",
+          "nombre_de_creations": 5920,
+          "part_dans_le_total": 6.8,
+          "évolution_septembre_2022_2024": -13.7,
+          "évolution_janvier_septembre_2022_2024": 2.7
+        },
+        {
+          "implantation": "Urbaine dense",
+          "nombre_de_creations": 20483,
+          "part_dans_le_total": 23.6,
+          "évolution_septembre_2022_2024": -9.7,
+          "évolution_janvier_septembre_2022_2024": 4.3
+        },
+        {
+          "implantation": "Urbaine très dense",
+          "nombre_de_creations": 42707,
+          "part_dans_le_total": 49.1,
+          "évolution_septembre_2022_2024": -8.0,
+          "évolution_janvier_septembre_2022_2024": 7.1
+        },
+        {
+          "implantation": "Total France entière",
+          "nombre_de_creations": 86909,
+          "part_dans_le_total": 100.0,
+          "évolution_septembre_2022_2024": -9.1,
+          "évolution_janvier_septembre_2022_2024": 5.7
+        }
+      ]
+  }  

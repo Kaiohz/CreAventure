@@ -1,0 +1,77 @@
+{
+    "année": 2022,
+    "créations_entreprises": [
+      {
+        "statut_juridique": "Entreprises individuelles",
+        "nombre_de_creations": 778497,
+        "évolution_annuelle": 1.0,
+        "part_pourcent": 72.6,
+        "TCAM_2012_2021": 7.4,
+        "contribution_point_pourcent": 0.7
+      },
+      {
+        "statut_juridique": "Micro-entrepreneurs",
+        "nombre_de_creations": 656425,
+        "évolution_annuelle": 2.8,
+        "part_pourcent": 61.2,
+        "TCAM_2012_2021": 8.6,
+        "contribution_point_pourcent": 3.0
+      },
+      {
+        "statut_juridique": "Entreprises individuelles classiques",
+        "nombre_de_creations": 122072,
+        "évolution_annuelle": -7.4,
+        "part_pourcent": 11.4,
+        "TCAM_2012_2021": -0.9,
+        "contribution_point_pourcent": 1.3
+      },
+      {
+        "statut_juridique": "Sociétés",
+        "nombre_de_creations": 293384,
+        "évolution_annuelle": 4.8,
+        "part_pourcent": 27.4,
+        "TCAM_2012_2021": 6.2,
+        "contribution_point_pourcent": 1.7
+      },
+      {
+        "statut_juridique": "SARL & EURL",
+        "nombre_de_creations": 77273,
+        "évolution_annuelle": 3.9,
+        "part_pourcent": 7.2,
+        "TCAM_2012_2021": 21.5,
+        "contribution_point_pourcent": 0.3
+      },
+      {
+        "statut_juridique": "SAS & SASU",
+        "nombre_de_creations": 188058,
+        "évolution_annuelle": 4.5,
+        "part_pourcent": 17.5,
+        "TCAM_2012_2021": 7.2,
+        "contribution_point_pourcent": 0.8
+      },
+      {
+        "statut_juridique": "SCI",
+        "nombre_de_creations": 246,
+        "évolution_annuelle": -25.5,
+        "part_pourcent": 0.0,
+        "TCAM_2012_2021": -9.9,
+        "contribution_point_pourcent": 2.0
+      },
+      {
+        "statut_juridique": "Autres",
+        "nombre_de_creations": 27807,
+        "évolution_annuelle": 10.3,
+        "part_pourcent": 2.6,
+        "TCAM_2012_2021": 7.2,
+        "contribution_point_pourcent": 7.1
+      }
+    ],
+    "total_france": {
+      "nombre_de_creations": 1071888,
+      "évolution_annuelle": 0.0,
+      "part_pourcent": 100.0,
+      "TCAM_2012_2021": 0.0,
+      "contribution_point_pourcent": 2.0
+    }
+  }
+  

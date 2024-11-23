@@ -6,6 +6,7 @@ import os
 from llm_client.llm_client import LLMProxyChatOpenAI
 from memory.memory import messages
 import chainlit as cl
+import json
 
 
 
@@ -74,7 +75,187 @@ def add_bold_text(paragraph, text):
             paragraph.add_run(part)
         else:
             paragraph.add_run(part).bold = True
+        
+# création des tools 
+
+folder_path = "data"  # Remplacez par le chemin de votre dossier contenant les fichiers JSON
+key_to_extract_sector = "créations_entreprises_par_secteur"
+key_to_extract_statut = "création_entreprises_par_nature_juridique"
+key_to_extract_implantation = "création_entreprises_par_implantation" 
+key_to_extract_region = "création_entreprises_par_région" 
+
+@tool
+def fetch_sector_data(folder_path, key_to_extract_sector):
+    """ Récupérer les données d'entreprise par secteur """
+    result = {}
+    
+    # Vérification de l'existence du dossier
+    if not os.path.exists(folder_path):
+        return {"error": "Le dossier spécifié n'existe pas."}
+
+    # Parcourt tous les fichiers du dossier
+    for file_name in os.listdir(folder_path):
+        if file_name.endswith(".json"):  # Limité aux fichiers JSON
+            file_path = os.path.join(folder_path, file_name)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+
+                    # Recherche et extraction des données associées à la clé
+                    if key_to_extract_sector in data:
+                        secteur_data = data[key_to_extract_sector]
+                        extracted_data = []
+
+                        # Parcourt la liste pour récupérer les secteurs et les nombres
+                        for entry in secteur_data:
+                            if isinstance(entry, dict):
+                                secteur = entry.get("secteur", "Inconnu")
+                                nombre_de_creations = entry.get("nombre_de_creations", "Inconnu")
+                                extracted_data.append({
+                                    "secteur": secteur,
+                                    "nombre_de_creations": nombre_de_creations
+                                })
+
+                        # Ajoute les données extraites au résultat
+                        if extracted_data:
+                            result[file_name] = extracted_data
+
+            except (json.JSONDecodeError, FileNotFoundError) as e:
+                result[file_name] = f"Erreur lors de la lecture du fichier : {e}"
+    
+    return print(json.dumps(result, ensure_ascii=False, indent=4))
+
+@tool
+def fetch_legal_status_data(folder_path, key_to_extract_statut):
+    """
+    Récupperer les données d'entreprise par statut juridique
+    """
+    result = {}
+    
+    # Vérification de l'existence du dossier
+    if not os.path.exists(folder_path):
+        return {"error": "Le dossier spécifié n'existe pas."}
+
+    # Parcourt tous les fichiers du dossier
+    for file_name in os.listdir(folder_path):
+        if file_name.endswith(".json"):  # Limité aux fichiers JSON
+            file_path = os.path.join(folder_path, file_name)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+
+                    # Recherche et extraction des données associées à la clé
+                    if key_to_extract_statut in data:
+                        statut_data = data[key_to_extract_statut]
+                        extracted_data = []
+
+                        # Parcourt la liste pour récupérer les statuts juridiques et les nombres de créations
+                        for entry in statut_data:
+                            if isinstance(entry, dict):
+                                statut_juridique = entry.get("statut_juridique", "Inconnu")
+                                nombre_de_creations = entry.get("nombre_de_creations", "Inconnu")
+                                extracted_data.append({
+                                    "statut_juridique": statut_juridique,
+                                    "nombre_de_creations": nombre_de_creations
+                                })
+
+                        # Ajoute les données extraites au résultat
+                        if extracted_data:
+                            result[file_name] = extracted_data
+
+            except (json.JSONDecodeError, FileNotFoundError) as e:
+                result[file_name] = f"Erreur lors de la lecture du fichier : {e}"
+    
+    return print(json.dumps(result, ensure_ascii=False, indent=4))
 
 
-tools = [generate_market_report]
+@tool
+def fetch_implatation_data(key_to_extract_implantation):
+    """
+    Récupperer les données d'entreprise par implantation
+    """
+    result = {}
+
+    # Vérification de l'existence du dossier
+    if not os.path.exists(folder_path):
+        return {"error": "Le dossier spécifié n'existe pas."}
+
+    # Parcourt tous les fichiers du dossier
+    for file_name in os.listdir(folder_path):
+        if file_name.endswith(".json"):  # Limité aux fichiers JSON
+            file_path = os.path.join(folder_path, file_name)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+
+                    # Recherche et extraction des données associées à la clé
+                    if key_to_extract_implantation in data:
+                        implantation_data = data[key_to_extract_implantation]
+                        extracted_data = []
+
+                        # Parcourt la liste pour récupérer les informations sur les implantations
+                        for entry in implantation_data:
+                            if isinstance(entry, dict):
+                                implantation = entry.get("implantation", "Inconnu")
+                                nombre_de_creations = entry.get("nombre_de_creations", "Inconnu")
+                                extracted_data.append({
+                                    "implantation": implantation,
+                                    "nombre_de_creations": nombre_de_creations
+                                })
+
+                        # Ajoute les données extraites au résultat
+                        if extracted_data:
+                            result[file_name] = extracted_data
+
+            except (json.JSONDecodeError, FileNotFoundError) as e:
+                result[file_name] = f"Erreur lors de la lecture du fichier : {e}"
+
+    return print(json.dumps(result, ensure_ascii=False, indent=4))
+
+
+@tool
+def fetch_region_data():
+    """
+    récupérer les données d'entreprise par région
+    """
+    result = {}
+    
+    # Vérification de l'existence du dossier
+    if not os.path.exists(folder_path):
+        return {"error": "Le dossier spécifié n'existe pas."}
+
+    # Parcourt tous les fichiers du dossier
+    for file_name in os.listdir(folder_path):
+        if file_name.endswith(".json"):  # Limité aux fichiers JSON
+            file_path = os.path.join(folder_path, file_name)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+
+                    # Recherche et extraction des données associées à la clé
+                    if key_to_extract_region in data:
+                        region_data = data[key_to_extract_region]
+                        extracted_data = []
+
+                        # Parcourt la liste pour récupérer les informations sur les régions
+                        for entry in region_data:
+                            if isinstance(entry, dict):
+                                region = entry.get("région", "Inconnu")
+                                nombre_de_creations = entry.get("nombre_de_creations", "Inconnu")
+                                extracted_data.append({
+                                    "région": region,
+                                    "nombre_de_creations": nombre_de_creations
+                                })
+
+                        # Ajoute les données extraites au résultat
+                        if extracted_data:
+                            result[file_name] = extracted_data
+
+            except (json.JSONDecodeError, FileNotFoundError) as e:
+                result[file_name] = f"Erreur lors de la lecture du fichier : {e}"
+    
+    return print(json.dumps(result, ensure_ascii=False, indent=4))
+
+
+tools = [generate_market_report, fetch_sector_data, fetch_legal_status_data, fetch_implatation_data, fetch_region_data]
 tool_node = ToolNode(tools)

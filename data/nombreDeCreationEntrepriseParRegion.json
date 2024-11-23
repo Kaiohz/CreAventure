@@ -1,0 +1,186 @@
+{
+    "année": 2022,
+    "création_entreprises_par_région": [
+      {
+        "région": "Île-de-France",
+        "nombre_de_creations": 291484,
+        "part_micro_entrepreneurs": 59.4,
+        "évolution_annuelle": 3.5,
+        "TCAM_2012_2021": 8.7,
+        "taux_de_renouvellement": 197239,
+        "création_par_10_000_habitants": 239
+      },
+      {
+        "région": "Centre-Val de Loire",
+        "nombre_de_creations": 30055,
+        "part_micro_entrepreneurs": 61.9,
+        "évolution_annuelle": 0.9,
+        "TCAM_2012_2021": 6.6,
+        "taux_de_renouvellement": 189117,
+        "création_par_10_000_habitants": 117
+      },
+      {
+        "région": "Bourgogne-Franche-Comté",
+        "nombre_de_creations": 31166,
+        "part_micro_entrepreneurs": 62.0,
+        "évolution_annuelle": -1.0,
+        "TCAM_2012_2021": 6.1,
+        "taux_de_renouvellement": 170111,
+        "création_par_10_000_habitants": 111
+      },
+      {
+        "région": "Normandie",
+        "nombre_de_creations": 35885,
+        "part_micro_entrepreneurs": 60.7,
+        "évolution_annuelle": -1.8,
+        "TCAM_2012_2021": 6.9,
+        "taux_de_renouvellement": 173108,
+        "création_par_10_000_habitants": 108
+      },
+      {
+        "région": "Hauts-de-France",
+        "nombre_de_creations": 66425,
+        "part_micro_entrepreneurs": 63.5,
+        "évolution_annuelle": -1.4,
+        "TCAM_2012_2021": 7.2,
+        "taux_de_renouvellement": 193111,
+        "création_par_10_000_habitants": 111
+      },
+      {
+        "région": "Grand Est",
+        "nombre_de_creations": 64183,
+        "part_micro_entrepreneurs": 61.9,
+        "évolution_annuelle": -0.9,
+        "TCAM_2012_2021": 6.6,
+        "taux_de_renouvellement": 177116,
+        "création_par_10_000_habitants": 116
+      },
+      {
+        "région": "Pays de la Loire",
+        "nombre_de_creations": 47179,
+        "part_micro_entrepreneurs": 60.1,
+        "évolution_annuelle": 1.8,
+        "TCAM_2012_2021": 7.4,
+        "taux_de_renouvellement": 184125,
+        "création_par_10_000_habitants": 125
+      },
+      {
+        "région": "Bretagne",
+        "nombre_de_creations": 39463,
+        "part_micro_entrepreneurs": 56.3,
+        "évolution_annuelle": 3.3,
+        "TCAM_2012_2021": 6.7,
+        "taux_de_renouvellement": 175118,
+        "création_par_10_000_habitants": 118
+      },
+      {
+        "région": "Nouvelle-Aquitaine",
+        "nombre_de_creations": 89662,
+        "part_micro_entrepreneurs": 64.0,
+        "évolution_annuelle": 0.7,
+        "TCAM_2012_2021": 6.9,
+        "taux_de_renouvellement": 180150,
+        "création_par_10_000_habitants": 150
+      },
+      {
+        "région": "Occitanie",
+        "nombre_de_creations": 97485,
+        "part_micro_entrepreneurs": 63.4,
+        "évolution_annuelle": -0.2,
+        "TCAM_2012_2021": 6.0,
+        "taux_de_renouvellement": 180166,
+        "création_par_10_000_habitants": 166
+      },
+      {
+        "région": "Auvergne-Rhône-Alpes",
+        "nombre_de_creations": 127117,
+        "part_micro_entrepreneurs": 62.2,
+        "évolution_annuelle": 2.4,
+        "TCAM_2012_2021": 7.0,
+        "taux_de_renouvellement": 182159,
+        "création_par_10_000_habitants": 159
+      },
+      {
+        "région": "Provence-Alpes-Côte d’Azur",
+        "nombre_de_creations": 111321,
+        "part_micro_entrepreneurs": 66.3,
+        "évolution_annuelle": 4.2,
+        "TCAM_2012_2021": 6.2,
+        "taux_de_renouvellement": 182220,
+        "création_par_10_000_habitants": 220
+      },
+      {
+        "région": "Corse",
+        "nombre_de_creations": 6160,
+        "part_micro_entrepreneurs": 59.7,
+        "évolution_annuelle": 6.0,
+        "TCAM_2012_2021": 4.2,
+        "taux_de_renouvellement": 1382,
+        "création_par_10_000_habitants": 182
+      },
+      {
+        "région": "France métropolitaine hors Île-de-France",
+        "nombre_de_creations": 746101,
+        "part_micro_entrepreneurs": 62.7,
+        "évolution_annuelle": 1.1,
+        "TCAM_2012_2021": 6.6,
+        "taux_de_renouvellement": 181142,
+        "création_par_10_000_habitants": 142
+      },
+      {
+        "région": "France d'outre-mer",
+        "nombre_de_creations": 34296,
+        "part_micro_entrepreneurs": 44.7,
+        "évolution_annuelle": 10.9,
+        "TCAM_2012_2021": 4.8,
+        "taux_de_renouvellement": 173159,
+        "création_par_10_000_habitants": 159
+      },
+      {
+        "région": "Guadeloupe",
+        "nombre_de_creations": 7885,
+        "part_micro_entrepreneurs": 49.5,
+        "évolution_annuelle": 16.8,
+        "TCAM_2012_2021": 3.4,
+        "taux_de_renouvellement": 139203,
+        "création_par_10_000_habitants": 203
+      },
+      {
+        "région": "Martinique",
+        "nombre_de_creations": 9423,
+        "part_micro_entrepreneurs": 27.0,
+        "évolution_annuelle": 17.4,
+        "TCAM_2012_2021": 5.6,
+        "taux_de_renouvellement": 122256,
+        "création_par_10_000_habitants": 256
+      },
+      {
+        "région": "Guyane",
+        "nombre_de_creations": 3092,
+        "part_micro_entrepreneurs": 50.2,
+        "évolution_annuelle": 4.7,
+        "TCAM_2012_2021": 3.0,
+        "taux_de_renouvellement": 112112,
+        "création_par_10_000_habitants": 112
+      },
+      {
+        "région": "La Réunion",
+        "nombre_de_creations": 12124,
+        "part_micro_entrepreneurs": 55.6,
+        "évolution_annuelle": 6.4,
+        "TCAM_2012_2021": 5.2,
+        "taux_de_renouvellement": 181142,
+        "création_par_10_000_habitants": 142
+      },
+      {
+        "région": "Mayotte",
+        "nombre_de_creations": 1772,
+        "part_micro_entrepreneurs": 33.1,
+        "évolution_annuelle": -1.7,
+        "TCAM_2012_2021": 8.1,
+        "taux_de_renouvellement": 14266,
+        "création_par_10_000_habitants": 66
+      }
+    ]
+  }
+  
