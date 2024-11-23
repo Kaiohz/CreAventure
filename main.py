@@ -1,6 +1,8 @@
 import chainlit as cl
 from llm_client.llm_client import LLMProxyChatOpenAI, LLMProxyOpenAIEmbeddings
 from config import MODEL_EMBEDDINGS
+import searchPart
+
 from io import BytesIO
 import os
 
