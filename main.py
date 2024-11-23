@@ -3,6 +3,9 @@ from llm_client.llm_client import LLMProxyChatOpenAI, LLMProxyOpenAIEmbeddings
 from config import MODEL_EMBEDDINGS
 from io import BytesIO
 import os
+import reconnaissance_vocale as rv
+import wave
+
 
 def load_system_prompt():
     prompt_path = os.path.join(os.path.dirname(__file__), "prompts", "system_prompt.txt")
@@ -44,3 +47,13 @@ async def on_audio_chunk(chunk: cl.AudioChunk):
 
     # Write the chunks to a buffer and transcribe the whole audio at the end
     cl.user_session.get("audio_buffer").write(chunk.data)
+    with wave.open("fichier_vide.wav", "wb") as wf:
+        wf.setnchannels(1)        # Mono (1 canal)
+        wf.setsampwidth(2)        # Taille des échantillons : 2 octets (16 bits)
+        wf.setframerate(16000)    # Fréquence d'échantillonnage : 16 kHz
+        wf.writeframes(chunk.data)
+    
+    message =  rv.interPreteur("fichier_vide.wav")
+    print(f"contenu : {message}")
+    main(message)
+    
