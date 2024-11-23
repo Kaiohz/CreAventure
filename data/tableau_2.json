@@ -1,0 +1,125 @@
+{
+  "date": "Septembre 2024",
+  "sectors": [
+    {
+      "sector": "8560Z-Activités de soutien à l'enseignement",
+      "creations": 251,
+      "micro_entrepreneurs_percentage": 97.6,
+      "evolution_sept_2022_2024": 146.1
+    },
+    {
+      "sector": "4941A-Transports routiers de fret interurbains",
+      "creations": 292,
+      "micro_entrepreneurs_percentage": 87.7,
+      "evolution_sept_2022_2024": 141.3
+    },
+    {
+      "sector": "8623Z-Pratique dentaire",
+      "creations": 59,
+      "micro_entrepreneurs_percentage": 0.0,
+      "evolution_sept_2022_2024": 96.7
+    },
+    {
+      "sector": "8891A-Accueil de jeunes enfants",
+      "creations": 114,
+      "micro_entrepreneurs_percentage": 92.1,
+      "evolution_sept_2022_2024": 90.0
+    },
+    {
+      "sector": "8220Z-Activités de centres d'appels",
+      "creations": 41,
+      "micro_entrepreneurs_percentage": 85.4,
+      "evolution_sept_2022_2024": 78.3
+    },
+    {
+      "sector": "5911B-Production de films institutionnels et publicitaires",
+      "creations": 114,
+      "micro_entrepreneurs_percentage": 77.2,
+      "evolution_sept_2022_2024": 56.2
+    },
+    {
+      "sector": "5320Z-Autres activités de poste et de courrier",
+      "creations": 2496,
+      "micro_entrepreneurs_percentage": 97.8,
+      "evolution_sept_2022_2024": 48.4
+    },
+    {
+      "sector": "8130Z-Services d'aménagement paysager",
+      "creations": 43,
+      "micro_entrepreneurs_percentage": 51.2,
+      "evolution_sept_2022_2024": 48.3
+    },
+    {
+      "sector": "8553Z-Enseignement de la conduite",
+      "creations": 65,
+      "micro_entrepreneurs_percentage": 75.4,
+      "evolution_sept_2022_2024": 47.7
+    },
+    {
+      "sector": "8121Z-Nettoyage courant des bâtiments",
+      "creations": 746,
+      "micro_entrepreneurs_percentage": 88.3,
+      "evolution_sept_2022_2024": 42.1
+    },
+    {
+      "sector": "8211Z-Services administratifs combinés de bureau",
+      "creations": 253,
+      "micro_entrepreneurs_percentage": 73.5,
+      "evolution_sept_2022_2024": 39.0
+    },
+    {
+      "sector": "7311Z-Activités des agences de publicité",
+      "creations": 170,
+      "micro_entrepreneurs_percentage": 72.9,
+      "evolution_sept_2022_2024": 38.2
+    },
+    {
+      "sector": "4511Z-Commerce de voitures et de véhicules automobiles légers",
+      "creations": 275,
+      "micro_entrepreneurs_percentage": 52.7,
+      "evolution_sept_2022_2024": 34.8
+    },
+    {
+      "sector": "3511Z-Production d'électricité",
+      "creations": 124,
+      "micro_entrepreneurs_percentage": 6.5,
+      "evolution_sept_2022_2024": 34.8
+    },
+    {
+      "sector": "8299Z-Autres activités de soutien aux entreprises n.c.a.",
+      "creations": 404,
+      "micro_entrepreneurs_percentage": 87.9,
+      "evolution_sept_2022_2024": 32.0
+    },
+    {
+      "sector": "7112B-Ingénierie, études techniques",
+      "creations": 292,
+      "micro_entrepreneurs_percentage": 62.3,
+      "evolution_sept_2022_2024": 29.8
+    },
+    {
+      "sector": "8899B-Action sociale sans hébergement n.c.a.",
+      "creations": 71,
+      "micro_entrepreneurs_percentage": 46.5,
+      "evolution_sept_2022_2024": 29.1
+    },
+    {
+      "sector": "6622Z-Activités des agents et courtiers d'assurances",
+      "creations": 94,
+      "micro_entrepreneurs_percentage": 66.0,
+      "evolution_sept_2022_2024": 23.7
+    },
+    {
+      "sector": "5520Z-Hébergement touristique et autre hébergement de courte durée",
+      "creations": 48,
+      "micro_entrepreneurs_percentage": 33.3,
+      "evolution_sept_2022_2024": 23.1
+    },
+    {
+      "sector": "8810A-Aide à domicile",
+      "creations": 66,
+      "micro_entrepreneurs_percentage": 81.8,
+      "evolution_sept_2022_2024": 22.2
+    }
+  ]
+}

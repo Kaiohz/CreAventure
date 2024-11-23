@@ -1,0 +1,68 @@
+{
+  "date": "Septembre 2024",
+  "categories": [
+    {
+      "category": "Entreprises individuelles",
+      "creations": 17902,
+      "part_in_total_percentage": 74.5,
+      "evolution_sept_2022_2024": -7.3,
+      "evolution_jan_sept_2022_2024": 15.5
+    },
+    {
+      "category": "Micro-entrepreneurs",
+      "creations": 16254,
+      "part_in_total_percentage": 67.7,
+      "evolution_sept_2022_2024": -6.1,
+      "evolution_jan_sept_2022_2024": 17.7
+    },
+    {
+      "category": "Entreprises individuelles classiques",
+      "creations": 1648,
+      "part_in_total_percentage": 6.9,
+      "evolution_sept_2022_2024": -17.6,
+      "evolution_jan_sept_2022_2024": -0.4
+    },
+    {
+      "category": "Sociétés",
+      "creations": 6113,
+      "part_in_total_percentage": 25.5,
+      "evolution_sept_2022_2024": -16.8,
+      "evolution_jan_sept_2022_2024": 1.9
+    },
+    {
+      "category": "SARL & EURL",
+      "creations": 905,
+      "part_in_total_percentage": 3.8,
+      "evolution_sept_2022_2024": -34.4,
+      "evolution_jan_sept_2022_2024": -17.2
+    },
+    {
+      "category": "SAS & SASU",
+      "creations": 4838,
+      "part_in_total_percentage": 20.1,
+      "evolution_sept_2022_2024": -13.3,
+      "evolution_jan_sept_2022_2024": 8.1
+    },
+    {
+      "category": "SCI",
+      "creations": 22,
+      "part_in_total_percentage": 0.1,
+      "evolution_sept_2022_2024": 0.0,
+      "evolution_jan_sept_2022_2024": 494.4
+    },
+    {
+      "category": "Autres",
+      "creations": 348,
+      "part_in_total_percentage": 1.4,
+      "evolution_sept_2022_2024": -11.0,
+      "evolution_jan_sept_2022_2024": -19.3
+    },
+    {
+      "category": "Total Île-de-France",
+      "creations": 24015,
+      "part_in_total_percentage": 100.0,
+      "evolution_sept_2022_2024": -9.9,
+      "evolution_jan_sept_2022_2024": 11.0
+    }
+  ]
+}

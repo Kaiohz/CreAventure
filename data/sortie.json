@@ -1,0 +1,52 @@
+[
+    {
+        "libelle": "France",
+        "periode": 1974,
+        "valeur": 12445
+    },
+    {
+        "libelle": "France",
+        "periode": 1975,
+        "valeur": 15339
+    },
+    {
+        "libelle": "France",
+        "periode": 1976,
+        "valeur": 12866
+    },
+    {
+        "libelle": "France",
+        "periode": 1977,
+        "valeur": 14313
+    },
+    {
+        "libelle": "France",
+        "periode": 1978,
+        "valeur": 16060
+    },
+    {
+        "libelle": "France",
+        "periode": 1979,
+        "valeur": 16334
+    },
+    {
+        "libelle": "France",
+        "periode": 1980,
+        "valeur": 17846
+    },
+    {
+        "libelle": "France",
+        "periode": 1981,
+        "valeur": 21366
+    },
+    {
+        "libelle": "France",
+        "periode": 1982,
+        "valeur": 20933
+    },
+    {
+        "libelle": "France",
+        "periode": 1983,
+        "valeur": 23179
+    }
+]

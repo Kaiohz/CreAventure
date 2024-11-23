@@ -1,0 +1,33 @@
+{
+  "date": "Septembre 2024",
+  "categories": [
+    {
+      "category": "Zones de revitalisation rurale (ZRR)",
+      "creations": 21,
+      "part_in_total_percentage": 0.1,
+      "evolution_sept_2022_2024": -4.5,
+      "evolution_jan_sept_2022_2024": 6.4
+    },
+    {
+      "category": "Zones d'aide à finalité régionale (AFR)",
+      "creations": 1980,
+      "part_in_total_percentage": 8.2,
+      "evolution_sept_2022_2024": -9.0,
+      "evolution_jan_sept_2022_2024": 11.9
+    },
+    {
+      "category": "Petites villes de demain (PVD)",
+      "creations": 337,
+      "part_in_total_percentage": 1.4,
+      "evolution_sept_2022_2024": -20.7,
+      "evolution_jan_sept_2022_2024": 3.0
+    },
+    {
+      "category": "Actions cœur de ville (ACV)",
+      "creations": 1131,
+      "part_in_total_percentage": 4.7,
+      "evolution_sept_2022_2024": -7.7,
+      "evolution_jan_sept_2022_2024": 11.1
+    }
+  ]
+}

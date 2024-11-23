@@ -1,0 +1,52 @@
+[
+    {
+        "libelle": "Nombre annuel de créations d'entreprises - France",
+        "periode": 1987,
+        "valeur": 225142.0
+    },
+    {
+        "libelle": "Part des femmes parmi les créateurs d'entreprise individuelle - France - Série annuelle",
+        "periode": 1987,
+        "valeur": 29.0
+    },
+    {
+        "libelle": "Part des sociétés parmi les entreprises créées - France - Série annuelle",
+        "periode": 1987,
+        "valeur": 32.9
+    },
+    {
+        "libelle": "Nombre annuel de créations d'entreprises - France",
+        "periode": 1988,
+        "valeur": 234405.0
+    },
+    {
+        "libelle": "Part des femmes parmi les créateurs d'entreprise individuelle - France - Série annuelle",
+        "periode": 1988,
+        "valeur": 29.1
+    },
+    {
+        "libelle": "Part des sociétés parmi les entreprises créées - France - Série annuelle",
+        "periode": 1988,
+        "valeur": 33.5
+    },
+    {
+        "libelle": "Nombre annuel de créations d'entreprises - France",
+        "periode": 1989,
+        "valeur": 243741.0
+    },
+    {
+        "libelle": "Part des femmes parmi les créateurs d'entreprise individuelle - France - Série annuelle",
+        "periode": 1989,
+        "valeur": 29.2
+    },
+    {
+        "libelle": "Part des sociétés parmi les entreprises créées - France - Série annuelle",
+        "periode": 1989,
+        "valeur": 37.3
+    },
+    {
+        "libelle": "Nombre annuel de créations d'entreprises - France",
+        "periode": 1990,
+        "valeur": 242367.0
+    }
+]

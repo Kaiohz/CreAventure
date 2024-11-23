@@ -1,0 +1,166 @@
+{
+    "date": "Septembre 2024",
+    "sectors": [
+      {
+        "sector": "Activités secondaires",
+        "creations": 1765,
+        "micro_entrepreneurs_percentage": 52.2,
+        "evolution_sept_2022_2024": -22.5,
+        "evolution_jan_sept_2022_2024": 10.1
+      },
+      {
+        "sector": "Industrie",
+        "creations": 548,
+        "micro_entrepreneurs_percentage": 57.8,
+        "evolution_sept_2022_2024": -16.1,
+        "evolution_jan_sept_2022_2024": 21.0
+      },
+      {
+        "sector": "Construction",
+        "creations": 1217,
+        "micro_entrepreneurs_percentage": 49.7,
+        "evolution_sept_2022_2024": -25.1,
+        "evolution_jan_sept_2022_2024": 6.3
+      },
+      {
+        "sector": "Activités de type commerce",
+        "creations": 4875,
+        "micro_entrepreneurs_percentage": 63.1,
+        "evolution_sept_2022_2024": -9.1,
+        "evolution_jan_sept_2022_2024": 19.8
+      },
+      {
+        "sector": "Commerce de détail",
+        "creations": 1946,
+        "micro_entrepreneurs_percentage": 64.3,
+        "evolution_sept_2022_2024": 1.6,
+        "evolution_jan_sept_2022_2024": 17.1
+      },
+      {
+        "sector": "Commerce de gros",
+        "creations": 418,
+        "micro_entrepreneurs_percentage": 38.5,
+        "evolution_sept_2022_2024": -47.7,
+        "evolution_jan_sept_2022_2024": -21.6
+      },
+      {
+        "sector": "Commerce de bouche",
+        "creations": 59,
+        "micro_entrepreneurs_percentage": 49.2,
+        "evolution_sept_2022_2024": 22.9,
+        "evolution_jan_sept_2022_2024": 48.7
+      },
+      {
+        "sector": "Commerce et réparation automobiles",
+        "creations": 439,
+        "micro_entrepreneurs_percentage": 53.3,
+        "evolution_sept_2022_2024": 17.4,
+        "evolution_jan_sept_2022_2024": 36.6
+      },
+      {
+        "sector": "Hébergement",
+        "creations": 82,
+        "micro_entrepreneurs_percentage": 43.9,
+        "evolution_sept_2022_2024": 10.8,
+        "evolution_jan_sept_2022_2024": 97.9
+      },
+      {
+        "sector": "Restauration",
+        "creations": 616,
+        "micro_entrepreneurs_percentage": 48.9,
+        "evolution_sept_2022_2024": 4.1,
+        "evolution_jan_sept_2022_2024": 36.6
+      },
+      {
+        "sector": "Services en direction des personnes",
+        "creations": 1315,
+        "micro_entrepreneurs_percentage": 80.7,
+        "evolution_sept_2022_2024": -15.9,
+        "evolution_jan_sept_2022_2024": 33.3
+      },
+      {
+        "sector": "Activités de type services",
+        "creations": 17375,
+        "micro_entrepreneurs_percentage": 70.5,
+        "evolution_sept_2022_2024": -8.7,
+        "evolution_jan_sept_2022_2024": 8.5
+      },
+      {
+        "sector": "Immobilier",
+        "creations": 567,
+        "micro_entrepreneurs_percentage": 44.8,
+        "evolution_sept_2022_2024": -23.8,
+        "evolution_jan_sept_2022_2024": -16.4
+      },
+      {
+        "sector": "Transports et entreposage",
+        "creations": 3728,
+        "micro_entrepreneurs_percentage": 86.3,
+        "evolution_sept_2022_2024": 36.6,
+        "evolution_jan_sept_2022_2024": 39.8
+      },
+      {
+        "sector": "Activités scientifiques et techniques",
+        "creations": 4368,
+        "micro_entrepreneurs_percentage": 65.8,
+        "evolution_sept_2022_2024": -31.8,
+        "evolution_jan_sept_2022_2024": -14.6
+      },
+      {
+        "sector": "Activités de soutien aux entreprises",
+        "creations": 2175,
+        "micro_entrepreneurs_percentage": 74.7,
+        "evolution_sept_2022_2024": 21.7,
+        "evolution_jan_sept_2022_2024": 63.7
+      },
+      {
+        "sector": "Information et communication",
+        "creations": 2035,
+        "micro_entrepreneurs_percentage": 66.2,
+        "evolution_sept_2022_2024": -12.5,
+        "evolution_jan_sept_2022_2024": 28.5
+      },
+      {
+        "sector": "Enseignement",
+        "creations": 1970,
+        "micro_entrepreneurs_percentage": 89.2,
+        "evolution_sept_2022_2024": -10.0,
+        "evolution_jan_sept_2022_2024": -2.8
+      },
+      {
+        "sector": "Arts, spectacles et activités récréatives",
+        "creations": 801,
+        "micro_entrepreneurs_percentage": 68.5,
+        "evolution_sept_2022_2024": -19.1,
+        "evolution_jan_sept_2022_2024": 16.3
+      },
+      {
+        "sector": "Santé humaine et action sociale",
+        "creations": 1075,
+        "micro_entrepreneurs_percentage": 48.7,
+        "evolution_sept_2022_2024": -3.2,
+        "evolution_jan_sept_2022_2024": -11.2
+      },
+      {
+        "sector": "Activités financières et d’assurance",
+        "creations": 656,
+        "micro_entrepreneurs_percentage": 17.2,
+        "evolution_sept_2022_2024": -12.2,
+        "evolution_jan_sept_2022_2024": -5.0
+      },
+      {
+        "sector": "Activités des sociétés holding",
+        "creations": 107,
+        "micro_entrepreneurs_percentage": 0.0,
+        "evolution_sept_2022_2024": -43.7,
+        "evolution_jan_sept_2022_2024": -32.6
+      }
+    ],
+    "total": {
+      "creations": 24015,
+      "micro_entrepreneurs_percentage": 67.7,
+      "evolution_sept_2022_2024": -9.9,
+      "evolution_jan_sept_2022_2024": 11.0
+    }
+  }
+  

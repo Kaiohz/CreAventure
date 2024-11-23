@@ -1,0 +1,75 @@
+{
+  "date": "Septembre 2024",
+  "categories": [
+    {
+      "category": "Rurale éloignée très peu dense",
+      "creations": 2,
+      "part_in_total_percentage": 0.0,
+      "evolution_sept_2022_2024": -33.3,
+      "evolution_jan_sept_2022_2024": -8.3
+    },
+    {
+      "category": "Rurale éloignée peu dense",
+      "creations": 6,
+      "part_in_total_percentage": 0.0,
+      "evolution_sept_2022_2024": 20.0,
+      "evolution_jan_sept_2022_2024": 17.9
+    },
+    {
+      "category": "Rurale périphérique très peu dense",
+      "creations": 24,
+      "part_in_total_percentage": 0.1,
+      "evolution_sept_2022_2024": -47.8,
+      "evolution_jan_sept_2022_2024": 7.3
+    },
+    {
+      "category": "Rurale périphérique peu dense",
+      "creations": 459,
+      "part_in_total_percentage": 1.9,
+      "evolution_sept_2022_2024": -21.8,
+      "evolution_jan_sept_2022_2024": 4.4
+    },
+    {
+      "category": "Bourg",
+      "creations": 1,
+      "part_in_total_percentage": 0.0,
+      "evolution_sept_2022_2024": -50.0,
+      "evolution_jan_sept_2022_2024": 16.7
+    },
+    {
+      "category": "Petite ville",
+      "creations": 17,
+      "part_in_total_percentage": 0.1,
+      "evolution_sept_2022_2024": 41.7,
+      "evolution_jan_sept_2022_2024": -2.3
+    },
+    {
+      "category": "Urbaine périphérique peu dense",
+      "creations": 330,
+      "part_in_total_percentage": 1.4,
+      "evolution_sept_2022_2024": -13.6,
+      "evolution_jan_sept_2022_2024": 4.7
+    },
+    {
+      "category": "Urbaine dense",
+      "creations": 2021,
+      "part_in_total_percentage": 8.4,
+      "evolution_sept_2022_2024": -12.2,
+      "evolution_jan_sept_2022_2024": 4.0
+    },
+    {
+      "category": "Urbaine très dense",
+      "creations": 21155,
+      "part_in_total_percentage": 88.1,
+      "evolution_sept_2022_2024": -9.3,
+      "evolution_jan_sept_2022_2024": 11.9
+    },
+    {
+      "category": "Total Île-de-France",
+      "creations": 24015,
+      "part_in_total_percentage": 100.0,
+      "evolution_sept_2022_2024": -9.9,
+      "evolution_jan_sept_2022_2024": 11.0
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "date": "Septembre 2024",
+  "sectors": [
+    {
+      "sector": "4619B-Autres intermédiaires du commerce en produits divers",
+      "creations": 88,
+      "micro_entrepreneurs_percentage": 77.3,
+      "evolution_sept_2022_2024": -71.1
+    },
+    {
+      "sector": "8542Z-Enseignement supérieur",
+      "creations": 66,
+      "micro_entrepreneurs_percentage": 87.9,
+      "evolution_sept_2022_2024": -63.9
+    },
+    {
+      "sector": "7021Z-Conseil en relations publiques et communication",
+      "creations": 403,
+      "micro_entrepreneurs_percentage": 81.6,
+      "evolution_sept_2022_2024": -54.0
+    },
+    {
+      "sector": "6810Z-Activités des marchands de biens immobiliers",
+      "creations": 58,
+      "micro_entrepreneurs_percentage": 3.4,
+      "evolution_sept_2022_2024": -49.6
+    },
+    {
+      "sector": "5920Z-Enregistrement sonore et édition musicale",
+      "creations": 59,
+      "micro_entrepreneurs_percentage": 64.4,
+      "evolution_sept_2022_2024": -46.4
+    },
+    {
+      "sector": "6619B-Autres auxi. acti. de serv. financ., hors assur. et caisses de retraite n.c.a.",
+      "creations": 52,
+      "micro_entrepreneurs_percentage": 63.5,
+      "evolution_sept_2022_2024": -44.7
+    },
+    {
+      "sector": "6420Z-Activités des sociétés holding",
+      "creations": 107,
+      "micro_entrepreneurs_percentage": 0.0,
+      "evolution_sept_2022_2024": -43.7
+    },
+    {
+      "sector": "8690E-Activités des professionnels de la rééduc., appareillage et pédi.-podo.",
+      "creations": 224,
+      "micro_entrepreneurs_percentage": 31.3,
+      "evolution_sept_2022_2024": -39.6
+    },
+    {
+      "sector": "7022Z-Conseil pour les affaires et autres conseils de gestion",
+      "creations": 1984,
+      "micro_entrepreneurs_percentage": 62.0,
+      "evolution_sept_2022_2024": -39.5
+    },
+    {
+      "sector": "4120A-Construction de maisons individuelles",
+      "creations": 96,
+      "micro_entrepreneurs_percentage": 29.2,
+      "evolution_sept_2022_2024": -39.2
+    },
+    {
+      "sector": "4690Z-Commerce de gros non spécialisé",
+      "creations": 104,
+      "micro_entrepreneurs_percentage": 23.1,
+      "evolution_sept_2022_2024": -38.8
+    },
+    {
+      "sector": "4332A-Travaux de menuiserie bois et PVC",
+      "creations": 59,
+      "micro_entrepreneurs_percentage": 67.8,
+      "evolution_sept_2022_2024": -37.9
+    },
+    {
+      "sector": "9329Z-Autres activités récréatives et de loisirs",
+      "creations": 229,
+      "micro_entrepreneurs_percentage": 84.7,
+      "evolution_sept_2022_2024": -37.1
+    },
+    {
+      "sector": "7430Z-Traduction et interprétation",
+      "creations": 95,
+      "micro_entrepreneurs_percentage": 91.6,
+      "evolution_sept_2022_2024": -35.4
+    },
+    {
+      "sector": "8552Z-Enseignement culturel",
+      "creations": 188,
+      "micro_entrepreneurs_percentage": 94.1,
+      "evolution_sept_2022_2024": -31.9
+    },
+    {
+      "sector": "4120B-Construction d'autres bâtiments",
+      "creations": 41,
+      "micro_entrepreneurs_percentage": 17.1,
+      "evolution_sept_2022_2024": -31.7
+    },
+    {
+      "sector": "7410Z-Activités spécialisées de design",
+      "creations": 489,
+      "micro_entrepreneurs_percentage": 82.8,
+      "evolution_sept_2022_2024": -31.0
+    },
+    {
+      "sector": "4334Z-Travaux de peinture et vitrerie",
+      "creations": 128,
+      "micro_entrepreneurs_percentage": 48.4,
+      "evolution_sept_2022_2024": -28.1
+    },
+    {
+      "sector": "6831Z-Agences immobilières",
+      "creations": 286,
+      "micro_entrepreneurs_percentage": 81.1,
+      "evolution_sept_2022_2024": -28.0
+    },
+    {
+      "sector": "9604Z-Entretien corporel",
+      "creations": 99,
+      "micro_entrepreneurs_percentage": 79.8,
+      "evolution_sept_2022_2024": -27.7
+    }
+  ]
+}

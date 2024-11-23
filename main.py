@@ -4,6 +4,7 @@ from config import MODEL_EMBEDDINGS
 import searchPart
 
 from io import BytesIO
+from tools.tools import tools, tool_node
 import os
 
 def load_system_prompt():
@@ -15,7 +16,7 @@ def load_system_prompt():
         return "You are a helpful AI assistant."
 
 # Initialize the LLM client
-llm = LLMProxyChatOpenAI()
+llm = LLMProxyChatOpenAI().bind_tools(tools)
 embeddings = LLMProxyOpenAIEmbeddings()
 system_prompt = load_system_prompt()
 
@@ -26,6 +27,18 @@ async def main(message: cl.Message):
     messages.extend(cl.chat_context.to_openai())
     
     # Call LLM with the full conversation history
+    tool_response = tool_node.invoke({"messages": [llm.invoke(message.content)]})
+    
+    # Concatenate all ToolMessage contents into a single string
+    tool_content = ""
+    if "messages" in tool_response:
+        tool_content = " ".join(
+            msg.content
+            for msg in tool_response["messages"]
+            if hasattr(msg, "content")
+        )
+    
+    messages.append({"role": "assistant", "content": tool_content}) 
     response = await llm.agenerate([messages])
     
     # Send the LLM's response
