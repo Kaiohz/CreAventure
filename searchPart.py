@@ -1,5 +1,5 @@
 import json
-def scrapPart(jsonFile,nameSection) -> Any :
+def scrapPart(jsonFile,nameSection) -> any :
     try :
         with open(jsonFile, "r",encoding='utf-8') as f:
             data = json.load(f)
