@@ -35,8 +35,8 @@ async def main(message: cl.Message):
     ).send()
 
 
-@cl.on_audio_chunk
-async def on_audio_chunk(chunk: cl.AudioChunk):
+@cl.on_audio_end
+async def on_audio_end(chunk: cl.AudioChunk):
     if chunk.isStart:
         buffer = BytesIO()
         # This is required for whisper to recognize the file type
@@ -55,5 +55,16 @@ async def on_audio_chunk(chunk: cl.AudioChunk):
     
     message =  rv.interPreteur("fichier_vide.wav")
     print(f"contenu : {message}")
-    main(message)
+    
+    messages = [{"role": "system", "content": message}]
+    messages.extend(cl.chat_context.to_openai())
+    
+    # Call LLM with the full conversation history
+    response = await llm.agenerate([messages])
+    
+    # Send the LLM's response
+    await cl.Message(
+        content=response.generations[0][0].text,
+    ).send()
+    
     
