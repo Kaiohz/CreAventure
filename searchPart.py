@@ -1,14 +1,14 @@
 import json
-def scrapPart(jsonFile,nameSection) -> json :
+def scrapPart(jsonFile,nameSection) -> Any :
     try :
         with open(jsonFile, "r",encoding='utf-8') as f:
             data = json.load(f)
         data = explorer_json(data,nameSection)
         return data
     except json.JSONDecodeError:
-        raise json.JSONDecodeError("Error while opening the json file")
+        return "Error while opening the json file"
     except FileNotFoundError  :
-        raise FileNotFoundError("Any file was found")
+        return "Any file was found"
     
 def explorer_json(data, nameSection, niveau=0, path=None):
     if path is None:
