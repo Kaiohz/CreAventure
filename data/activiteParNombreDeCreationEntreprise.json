@@ -1,0 +1,186 @@
+{
+    "année": 2022,
+    "top_20_activites_creation_entreprises": [
+      {
+        "code_ape": "7022Z",
+        "activité": "Conseil pour les affaires et autres conseils de gestion",
+        "nombre_de_creations": 79337,
+        "part_micro_entrepreneurs": 74.0,
+        "évolution_annuelle": 19.1,
+        "TCAM_2012_2021": 12.4,
+        "taux_de_renouvellement": 334
+      },
+      {
+        "code_ape": "5320Z",
+        "activité": "Autres activités de poste et de courrier",
+        "nombre_de_creations": 58604,
+        "part_micro_entrepreneurs": 96.2,
+        "évolution_annuelle": -43.9,
+        "TCAM_2012_2021": 81.1,
+        "taux_de_renouvellement": 658
+      },
+      {
+        "code_ape": "9609Z",
+        "activité": "Autres services personnels n.c.a.",
+        "nombre_de_creations": 47730,
+        "part_micro_entrepreneurs": 91.4,
+        "évolution_annuelle": 18.8,
+        "TCAM_2012_2021": 14.1,
+        "taux_de_renouvellement": 503
+      },
+      {
+        "code_ape": "8121Z",
+        "activité": "Nettoyage courant des bâtiments",
+        "nombre_de_creations": 33054,
+        "part_micro_entrepreneurs": 87.6,
+        "évolution_annuelle": 27.9,
+        "TCAM_2012_2021": 15.9,
+        "taux_de_renouvellement": 439
+      },
+      {
+        "code_ape": "7021Z",
+        "activité": "Conseil en relations publiques et communication",
+        "nombre_de_creations": 25834,
+        "part_micro_entrepreneurs": 91.5,
+        "évolution_annuelle": 37.7,
+        "TCAM_2012_2021": 12.5,
+        "taux_de_renouvellement": 611
+      },
+      {
+        "code_ape": "4799A",
+        "activité": "Vente à domicile",
+        "nombre_de_creations": 23101,
+        "part_micro_entrepreneurs": 3.3,
+        "évolution_annuelle": -41.3,
+        "TCAM_2012_2021": 14.2,
+        "taux_de_renouvellement": 1197
+      },
+      {
+        "code_ape": "7410Z",
+        "activité": "Activités spécialisées de design",
+        "nombre_de_creations": 22204,
+        "part_micro_entrepreneurs": 83.1,
+        "évolution_annuelle": 13.1,
+        "TCAM_2012_2021": 12.1,
+        "taux_de_renouvellement": 397
+      },
+      {
+        "code_ape": "6831Z",
+        "activité": "Agences immobilières",
+        "nombre_de_creations": 21738,
+        "part_micro_entrepreneurs": 74.0,
+        "évolution_annuelle": -5.8,
+        "TCAM_2012_2021": 13.5,
+        "taux_de_renouvellement": 240
+      },
+      {
+        "code_ape": "6201Z",
+        "activité": "Programmation informatique",
+        "nombre_de_creations": 20922,
+        "part_micro_entrepreneurs": 78.0,
+        "évolution_annuelle": 16.2,
+        "TCAM_2012_2021": 10.8,
+        "taux_de_renouvellement": 331
+      },
+      {
+        "code_ape": "4791B",
+        "activité": "Vente à distance sur catalogue spécialisé",
+        "nombre_de_creations": 20531,
+        "part_micro_entrepreneurs": 69.3,
+        "évolution_annuelle": 2.1,
+        "TCAM_2012_2021": 16.8,
+        "taux_de_renouvellement": 636
+      },
+      {
+        "code_ape": "5610C",
+        "activité": "Restauration de type rapide",
+        "nombre_de_creations": 17122,
+        "part_micro_entrepreneurs": 40.9,
+        "évolution_annuelle": -24.0,
+        "TCAM_2012_2021": 8.2,
+        "taux_de_renouvellement": 150
+      },
+      {
+        "code_ape": "8559B",
+        "activité": "Autres enseignements",
+        "nombre_de_creations": 16615,
+        "part_micro_entrepreneurs": 89.9,
+        "évolution_annuelle": 3.5,
+        "TCAM_2012_2021": 14.8,
+        "taux_de_renouvellement": 311
+      },
+      {
+        "code_ape": "9602B",
+        "activité": "Soins de beauté",
+        "nombre_de_creations": 16236,
+        "part_micro_entrepreneurs": 82.6,
+        "évolution_annuelle": 22.0,
+        "TCAM_2012_2021": 2.9,
+        "taux_de_renouvellement": 275
+      },
+      {
+        "code_ape": "4399C",
+        "activité": "Travaux de maçonnerie générale et gros œuvre de bâtiment",
+        "nombre_de_creations": 14721,
+        "part_micro_entrepreneurs": 51.8,
+        "évolution_annuelle": 2.0,
+        "TCAM_2012_2021": 0.1,
+        "taux_de_renouvellement": 117
+      },
+      {
+        "code_ape": "6202A",
+        "activité": "Conseil en systèmes et logiciels informatiques",
+        "nombre_de_creations": 14568,
+        "part_micro_entrepreneurs": 58.2,
+        "évolution_annuelle": 21.4,
+        "TCAM_2012_2021": 7.8,
+        "taux_de_renouvellement": 271
+      },
+      {
+        "code_ape": "4321A",
+        "activité": "Travaux d'installation électrique dans tous locaux",
+        "nombre_de_creations": 14338,
+        "part_micro_entrepreneurs": 62.4,
+        "évolution_annuelle": 2.7,
+        "TCAM_2012_2021": 4.6,
+        "taux_de_renouvellement": 164
+      },
+      {
+        "code_ape": "6630Z",
+        "activité": "Gestion de fonds",
+        "nombre_de_creations": 13720,
+        "part_micro_entrepreneurs": 0.3,
+        "évolution_annuelle": 17.8,
+        "TCAM_2012_2021": 41.5,
+        "taux_de_renouvellement": 534
+      },
+      {
+        "code_ape": "3511Z",
+        "activité": "Production d'électricité",
+        "nombre_de_creations": 13577,
+        "part_micro_entrepreneurs": 0.4,
+        "évolution_annuelle": 100.1,
+        "TCAM_2012_2021": 12.6,
+        "taux_de_renouvellement": 552
+      },
+      {
+        "code_ape": "4932Z",
+        "activité": "Transports de voyageurs par taxis",
+        "nombre_de_creations": 13035,
+        "part_micro_entrepreneurs": 47.0,
+        "évolution_annuelle": 19.4,
+        "TCAM_2012_2021": 14.1,
+        "taux_de_renouvellement": 163
+      },
+      {
+        "code_ape": "4619B",
+        "activité": "Autres intermédiaires du commerce en produits divers",
+        "nombre_de_creations": 12735,
+        "part_micro_entrepreneurs": 83.7,
+        "évolution_annuelle": -16.5,
+        "TCAM_2012_2021": 5.1,
+        "taux_de_renouvellement": 202
+      }
+    ]
+  }
+  

@@ -1,0 +1,69 @@
+{
+    "année": 2024,
+    "région": "Île-de-France",
+    "création_entreprises_par_nature_juridique": [
+      {
+        "nature_juridique": "Entreprises individuelles",
+        "nombre_de_creations": 17902,
+        "part_dans_le_total": 74.5,
+        "évolution_septembre_2022_2024": -7.3,
+        "évolution_janvier_septembre_2022_2024": 15.5
+      },
+      {
+        "nature_juridique": "Micro-entrepreneurs",
+        "nombre_de_creations": 16254,
+        "part_dans_le_total": 67.7,
+        "évolution_septembre_2022_2024": -6.1,
+        "évolution_janvier_septembre_2022_2024": 17.7
+      },
+      {
+        "nature_juridique": "Entreprises individuelles classiques",
+        "nombre_de_creations": 1648,
+        "part_dans_le_total": 6.9,
+        "évolution_septembre_2022_2024": -17.6,
+        "évolution_janvier_septembre_2022_2024": -0.4
+      },
+      {
+        "nature_juridique": "Sociétés",
+        "nombre_de_creations": 6113,
+        "part_dans_le_total": 25.5,
+        "évolution_septembre_2022_2024": -16.8,
+        "évolution_janvier_septembre_2022_2024": 1.9
+      },
+      {
+        "nature_juridique": "SARL & EURL",
+        "nombre_de_creations": 905,
+        "part_dans_le_total": 3.8,
+        "évolution_septembre_2022_2024": -34.4,
+        "évolution_janvier_septembre_2022_2024": -17.2
+      },
+      {
+        "nature_juridique": "SAS & SASU",
+        "nombre_de_creations": 4838,
+        "part_dans_le_total": 20.1,
+        "évolution_septembre_2022_2024": -13.3,
+        "évolution_janvier_septembre_2022_2024": 8.1
+      },
+      {
+        "nature_juridique": "SCI",
+        "nombre_de_creations": 220,
+        "part_dans_le_total": 0.1,
+        "évolution_septembre_2022_2024": 494.4,
+        "évolution_janvier_septembre_2022_2024": 0
+      },
+      {
+        "nature_juridique": "Autres",
+        "nombre_de_creations": 348,
+        "part_dans_le_total": 1.4,
+        "évolution_septembre_2022_2024": -11.0,
+        "évolution_janvier_septembre_2022_2024": -19.3
+      },
+      {
+        "nature_juridique": "Total Île-de-France",
+        "nombre_de_creations": 24015,
+        "part_dans_le_total": 100.0,
+        "évolution_septembre_2022_2024": -9.9,
+        "évolution_janvier_septembre_2022_2024": 11.0
+      }
+    ]
+  }
